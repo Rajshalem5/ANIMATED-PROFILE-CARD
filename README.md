@@ -1,6 +1,6 @@
 # ANIMATED-PROFILE-CARD
 
-**Livewebsite: https://aniamted-profile-card.vercel.app/
+## Livewebsite: https://aniamted-profile-card.vercel.app/
 
 **Repository Description: Animated Profile Card Using HTML and CSS**
 
